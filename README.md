@@ -29,3 +29,10 @@ I know it likely has a lot of flaws, but for a small project like this it works 
 5: Motion Sensor code kept detecting motion in a reflection that was still and unmoving. Likely a deep rooted problem but would be nice to fix.
 
 Other contributions welcome, or not. Feel free to use my code for your own personal projects if you so desire. Suggestions welcome. 
+
+
+**Credits:**
+
+1: Initial mockup to save time was done by ChatGPT. All other code was written by me.
+
+2: I used AForge Library for Image processing (http://www.aforgenet.com/framework/) - Because otherwise I'd have torn my hair out trying to figure that out.
