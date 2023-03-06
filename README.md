@@ -3,7 +3,7 @@ A small application that takes motion input from a webcam and plays a soundfile 
 
 Mostly finished initial itteration of this project, started because I wanted to do something silly to torture myself via motion sensor
 
-Its current features are as follows:
+**Its current features are as follows:**
 
 1: Detects if there is a Webcam
 
@@ -16,7 +16,8 @@ Its current features are as follows:
 Small Disclaimer: Honestly I have no idea what the motion capture system is, I just threw it together from previous unpublished projects and memory.
 I know it likely has a lot of flaws, but for a small project like this it works okay for now. 
 
-It could however use some improvement:
+**It could however use some improvement:**
+
 1: Currently it just hangs when theres no motion (Thanks to  the wait(true) line of code) - This should be improved first
 
 2: It could use some actual commands in text to tweak settings and store them in a file somewhere
